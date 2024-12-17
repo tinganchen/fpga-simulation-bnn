@@ -22,6 +22,11 @@ Project of FPGA (PYNQ-Z2) simulation to test inference time on software and hard
 
 <img src="./BNN-PYNQ-Z2/figure/workflow.png" width="600" height="350">
 
+### Inference results - hardware vs. software
+
+<img src="./BNN-PYNQ-Z2/figure/demo1.png" width="600" height="350">
+<img src="./BNN-PYNQ-Z2/figure/demo2.png" width="600" height="350">
+
 ### Research survey & Detailed description in the simulation process
 
 See [PDF](./FPGA_survey_PYNQ-BNN_demo.pdf).
