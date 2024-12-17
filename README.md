@@ -20,7 +20,7 @@ Project of FPGA (PYNQ-Z2) simulation to test inference time on software and hard
 2. Vivado - IP + Zynq PS >> Overlay files (.bit & .tcl)
 3. Jupyter Notebook - Overlay files (.bit) >> Python API (to control the interfaces of PYNQ-Z2)
 
-<img src="./BNN-PYNQ-Z2/figure/workflow.png" width="600" height="250">
+<img src="./BNN-PYNQ-Z2/figure/workflow.png" width="600" height="350">
 
 ### Research survey & Detailed description in the simulation process
 
