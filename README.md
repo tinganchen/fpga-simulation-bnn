@@ -33,6 +33,6 @@ See [PDF](./FPGA_survey_PYNQ-BNN_demo.pdf).
 
 ### Reference
 
-Xilinx official repo - [link](https://github.com/Xilinx/BNN-PYNQ/tree/master)
+Xilinx official repo - [link](https://github.com/Xilinx)
 
 BNN Paper - [link](https://dl.acm.org/doi/10.1145/3020078.3021744)
